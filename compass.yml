@@ -10,6 +10,12 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/AliakseiLitvinTesting/TestTestTest'
+  - name: 'developer docs'
+    type: DOCUMENT
+    url: 'https://111developer.atlassian.com/cloud/compass/forge-graphql-toolkit/'
+  - name: 'redash'
+    type: DASHBOARD
+    url: 'https://222.data.internal.atlassian.com/dashboard/forge-agg-toolkit-usage'
 relationships: {}
 labels:
   - 'source:github'
