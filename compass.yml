@@ -1,0 +1,19 @@
+name: TestTestTest
+id: 'ari:cloud:compass:630ac61e-2439-43c9-a9f9-bf57b5511288:component/224ed488-e2fb-4389-beb0-7dd9dd4481c7/b2db13da-40a1-4fcb-b30d-19c839a722ad'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/946b5630-c41f-4150-846e-d20b8df10875'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/AliakseiLitvinTesting/TestTestTest'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
