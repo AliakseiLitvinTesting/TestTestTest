@@ -16,6 +16,9 @@ links:
   - name: 'redash'
     type: DASHBOARD
     url: 'https://new.data.internal.atlassian.com/dashboard/forge-agg-toolkit-usage'
+  - name: 'hello'
+    type: DOCUMENT
+    url: 'https://example.com'
 relationships: {}
 labels:
   - 'source:github'
